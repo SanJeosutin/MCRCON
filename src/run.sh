@@ -1,0 +1,2 @@
+cd ../MCServer/
+./start.sh
